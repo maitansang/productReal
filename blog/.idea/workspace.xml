@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="294efb40-420b-4048-b370-8c988c56b83b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiTienTe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiTienTe/src/controllers/ChuyenDoiTienTe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/artifacts/GreetingController3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/GreetingController3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/src/Controllers/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/StudentManage3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/java/controllers/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/java/sevice/StudentSevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/java/sevice/StudentSeviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManager2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/artifacts/blogExample_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/artifacts/blogExample_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__javax_servlet_servlet_api_3_0_alpha_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/blogExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/model/MyBlog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/repository/BlogRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/service/BlogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/java/com/jpa/service/BlogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/webapp/WEB-INF/views/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogExample/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/email5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/java/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emailvalidate1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emailvalidate1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-exercise-mvc/web/WEB-INF/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/artifacts/blogExample_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/artifacts/blogExample_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/artifacts/jpaexercise_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/artifacts/jpaexercise_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/jpaexercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/repository/CustomerRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/repository/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/java/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/webapp/WEB-INF/views/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpaexercise/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manageStudent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/maven/maven (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/src/main/java/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product2/.idea/artifacts/students_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product2/.idea/artifacts/students_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product2/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/artifacts/productThymeleaf_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/artifacts/productThymeleaf_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/productThymeleaf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/java/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/java/com/codegym/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/ApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/controller/ProvinceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/formatter/ProvinceFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/model/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/repository/ProvinceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/service/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/java/service/impl/ProvinceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/customer/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/customer/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/customer/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/customer/error.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/customer/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/province/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/province/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/province/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/province/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../province/src/main/webapp/WEB-INF/views/province/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/artifacts/email5_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/artifacts/email5_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/src/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/web/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/web/WEB-INF/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/artifacts/studentsManager_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/web/WEB-INF/views/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/artifacts/studentsManagers1_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/artifacts/studentsManagers1_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_aop_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_beans_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_context_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_core_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_expression_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_web_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/jstl_1_2__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/java/sevice/StudentSevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/java/sevice/StudentSeviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/artifacts/template_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/artifacts/template_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/java/com/fsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/java/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/appconfig-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/appconfig-root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/views/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/template.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercise-mvc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-exercise-mvc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercise-mvc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-exercise-mvc/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercise-mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-exercise-mvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-web-mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-web-mvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="63" column="8" selection-start-line="31" selection-start-column="4" selection-end-line="63" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blogExample" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="294efb40-420b-4048-b370-8c988c56b83b" name="Default Changelist" comment="" />
+      <created>1555489546434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555489546434</updated>
+      <workItem from="1555489550475" duration="11000" />
+      <workItem from="1555681126830" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="63" column="8" selection-start-line="31" selection-start-column="4" selection-end-line="63" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

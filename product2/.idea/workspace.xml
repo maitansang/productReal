@@ -6,8 +6,177 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9992f053-5aa7-4e25-be88-19334565d7ea" name="Default Changelist" comment="" />
+    <list default="true" id="9992f053-5aa7-4e25-be88-19334565d7ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiTienTe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChuyenDoiTienTe/src/controllers/ChuyenDoiTienTe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/artifacts/GreetingController3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/GreetingController3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/src/Controllers/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GreetingController3/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/StudentManage3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/java/controllers/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/java/sevice/StudentSevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/java/sevice/StudentSeviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManage3/src/main/webapp/WEB-INF/views/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManager2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/email5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/java/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email5/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emailvalidate1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emailvalidate1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-exercise-mvc/web/WEB-INF/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../manageStudent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/maven/maven (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/src/main/java/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/students_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/students_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/artifacts/productThymeleaf_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/artifacts/productThymeleaf_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/productThymeleaf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/java/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/java/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/dispacher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../productThymeleaf/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/artifacts/email5_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/artifacts/email5_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/src/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-greeting/web/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/web/WEB-INF/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/artifacts/studentsManager_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/web/WEB-INF/views/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManager/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/artifacts/studentsManagers1_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/artifacts/studentsManagers1_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_aop_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_beans_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_context_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_core_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_expression_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_web_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/libraries/jstl_1_2__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/java/sevice/StudentSevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/java/sevice/StudentSeviceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/artifacts/template_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/artifacts/template_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/java/com/fsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/java/controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/appconfig-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/appconfig-root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/views/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template/template.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercise-mvc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-exercise-mvc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercise-mvc/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-exercise-mvc/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-exercise-mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-exercise-mvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-web-mvc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-web-mvc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../studentsManager/target/" />
+    <ignored path="$PROJECT_DIR$/../students/target/" />
+    <ignored path="$PROJECT_DIR$/../src/main/target/" />
+    <ignored path="$PROJECT_DIR$/../studentsManagers1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,63 +185,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/controller/ProductServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+            <state relative-caret-position="17">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/product/create.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/product/list.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/product/delete.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/service/ProductServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,7 +201,7 @@
         <entry file="file://$PROJECT_DIR$/src/service/ProductService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,10 +209,82 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/service/ProductServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="36" column="33" selection-start-line="35" selection-start-column="47" selection-end-line="36" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#995#996#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/product/view.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/product/create.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/product/list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="19" selection-start-line="18" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/product/edit.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/edit.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="62" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="527">
               <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
               <folding>
                 <element signature="e#370#371#0" expanded="true" />
@@ -117,34 +308,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/product/edit.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/product/view.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Class" />
         <option value="Interface" />
-        <option value="Jsp File" />
+        <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/list.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -153,11 +333,25 @@
         <option value="$PROJECT_DIR$/web/product/create.jsp" />
         <option value="$PROJECT_DIR$/web/product/delete.jsp" />
         <option value="$PROJECT_DIR$/src/service/ProductService.java" />
-        <option value="$PROJECT_DIR$/src/service/ProductServiceImpl.java" />
         <option value="$PROJECT_DIR$/web/product/list.jsp" />
         <option value="$PROJECT_DIR$/web/product/edit.jsp" />
-        <option value="$PROJECT_DIR$/src/controller/ProductServlet.java" />
         <option value="$PROJECT_DIR$/web/product/view.jsp" />
+        <option value="$PROJECT_DIR$/../studentsManager/pom.xml" />
+        <option value="$PROJECT_DIR$/../students/pom.xml" />
+        <option value="$PROJECT_DIR$/../src/main/pom.xml" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/studentManager.java" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/java/model/Student.java" />
+        <option value="$PROJECT_DIR$/src/service/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/list.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/ProductServlet.java" />
+        <option value="$PROJECT_DIR$/src/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/Controller.java" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/HomeController.java" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/pom.xml" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/java/sevice/StudentSevice.java" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/java/sevice/StudentSeviceImpl.java" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/StudentManager.java" />
+        <option value="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/edit.jsp" />
       </list>
     </option>
   </component>
@@ -168,11 +362,12 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -226,6 +421,15 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="product2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="product2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jstl-1.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -236,14 +440,27 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552471295066" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-web-mvc" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554293250229" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SANG HUNG\IdeaProjects\studentsManagers1\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\Users\SANG HUNG\IdeaProjects\studentsManagers1\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controllers" />
+      <recent name="controller" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="controllers" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -257,7 +474,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.jstl-1.2.jar">
+    <configuration name="jstl-1.2.jar" type="JarApplication" factoryName="JAR Application">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat 9.0.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <deployment>
@@ -344,18 +566,27 @@
       <workItem from="1552272553339" duration="1900000" />
       <workItem from="1552293470387" duration="3138000" />
       <workItem from="1552304333168" duration="7110000" />
-      <workItem from="1552453847075" duration="14862000" />
+      <workItem from="1552453847075" duration="16556000" />
+      <workItem from="1552914449514" duration="1558000" />
+      <workItem from="1554260328699" duration="1507000" />
+      <workItem from="1554271416316" duration="9961000" />
+      <workItem from="1554289758713" duration="985000" />
+      <workItem from="1554293524437" duration="643000" />
+      <workItem from="1554297446105" duration="1628000" />
+      <workItem from="1554342250483" duration="2275000" />
+      <workItem from="1554432563690" duration="1254000" />
+      <workItem from="1554821724808" duration="1210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27010000" />
+    <option name="totallyTimeSpent" value="49725000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.80733943" visible="true" weight="0.22844176" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80733943" visible="true" weight="0.3124019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -365,7 +596,7 @@
       <window_info id="Web" order="7" sideWeight="0.19266056" side_tool="true" weight="0.036308624" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32405892" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13747954" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24549918" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,7 +608,8 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.3289689" />
-      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3289689" />
+      <window_info anchor="bottom" id="Spring" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,49 +663,149 @@
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/ProductService.java">
+    <entry file="file://$PROJECT_DIR$/../studentsManager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManager/web/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManager/web/WEB-INF/views/list.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../students/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../students/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        <state relative-caret-position="328">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/main/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/java/views.java" />
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/HomeController.java" />
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/HomeController.java" />
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/java/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/java/sevice/StudentSeviceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/java/sevice/StudentSevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/ProductServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/java/controllers/StudentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/product/delete.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-          </folding>
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/product/edit.jsp">
+    <entry file="file://$PROJECT_DIR$/web/product/view.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        <state relative-caret-position="255">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/product/create.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state relative-caret-position="34">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/product/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/product/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../studentsManagers1/src/main/webapp/WEB-INF/views/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="62" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="527">
           <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
           <folding>
             <element signature="e#370#371#0" expanded="true" />
@@ -496,33 +828,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/product/delete.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/product/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/product/view.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/controller/ProductServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        <state relative-caret-position="17">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="36" column="33" selection-start-line="35" selection-start-column="47" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -581,7 +918,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>product2</last-edited>
+          <last-edited>studentsManagers1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

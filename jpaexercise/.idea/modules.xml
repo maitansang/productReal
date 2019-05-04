@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../blogExample/blogExample.iml" filepath="$PROJECT_DIR$/../blogExample/blogExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpaexercise.iml" filepath="$PROJECT_DIR$/jpaexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../province/province.iml" filepath="$PROJECT_DIR$/../province/province.iml" />
+    </modules>
+  </component>
+</project>
